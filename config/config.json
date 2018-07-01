@@ -1,0 +1,9 @@
+{
+  "route": {
+    "/": "ULog\\View\\ULog",
+    "/article": "ULog\\Controller\\Article",
+    "/catalog": "ULog\\Controller\\Catalog",
+    "/latest": "ULog\\Controller\\Latest",
+    "/post": "ULog\\Controller\\Post"
+  }
+}
